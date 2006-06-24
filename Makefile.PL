@@ -11,6 +11,4 @@ version_from  ('lib/Rubric/Entry/Formatter/KwikiFormatish.pm');
 requires('Rubric'               => 0.13_02);
 requires('Text::KwikiFormatish' => '1.10');
 
-sign(1);
-
 WriteAll();

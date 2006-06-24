@@ -1,5 +1,5 @@
 package Rubric::Entry::Formatter::KwikiFormatish;
-our $VERSION = '0.01';
+our $VERSION = '0.551';
 
 =head1 NAME
 
@@ -7,7 +7,7 @@ Rubric::Entry::Formatter::KwikiFormatish - format entries with AlmostKwikiText
 
 =head1 VERSION
 
- $Id: /my/cs/projects/rubric/trunk/lib/Rubric/Entry/Formatter/Nil.pm 18100 2006-01-26T13:59:16.285684Z rjbs  $
+ $Id: /my/cs/projects/rubric-kf/trunk/lib/Rubric/Entry/Formatter/KwikiFormatish.pm 22732 2006-06-24T00:19:55.894757Z rjbs  $
 
 =head1 DESCRIPTION
 
