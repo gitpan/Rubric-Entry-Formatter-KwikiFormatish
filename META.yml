@@ -20,10 +20,10 @@ requires:
   strict: 0
   warnings: 0
 resources:
-  bugtracker: https://github.com/rjbs/rubric-entry-formatter-kwikiformatish/issues
-  homepage: https://github.com/rjbs/rubric-entry-formatter-kwikiformatish
-  repository: https://github.com/rjbs/rubric-entry-formatter-kwikiformatish.git
-version: 0.001
+  bugtracker: https://github.com/rjbs/Rubric-Entry-Formatter-KwikiFormatish/issues
+  homepage: https://github.com/rjbs/Rubric-Entry-Formatter-KwikiFormatish
+  repository: https://github.com/rjbs/Rubric-Entry-Formatter-KwikiFormatish.git
+version: 0.552
 x_Dist_Zilla:
   perl:
     version: 5.019001

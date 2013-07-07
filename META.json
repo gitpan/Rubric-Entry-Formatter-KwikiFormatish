@@ -43,16 +43,16 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/rjbs/rubric-entry-formatter-kwikiformatish/issues"
+         "web" : "https://github.com/rjbs/Rubric-Entry-Formatter-KwikiFormatish/issues"
       },
-      "homepage" : "https://github.com/rjbs/rubric-entry-formatter-kwikiformatish",
+      "homepage" : "https://github.com/rjbs/Rubric-Entry-Formatter-KwikiFormatish",
       "repository" : {
          "type" : "git",
-         "url" : "https://github.com/rjbs/rubric-entry-formatter-kwikiformatish.git",
-         "web" : "https://github.com/rjbs/rubric-entry-formatter-kwikiformatish"
+         "url" : "https://github.com/rjbs/Rubric-Entry-Formatter-KwikiFormatish.git",
+         "web" : "https://github.com/rjbs/Rubric-Entry-Formatter-KwikiFormatish"
       }
    },
-   "version" : "0.001",
+   "version" : "0.552",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.019001"

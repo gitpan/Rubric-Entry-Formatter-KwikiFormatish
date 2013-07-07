@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Rubric::Entry::Formatter::KwikiFormatish;
 {
-  $Rubric::Entry::Formatter::KwikiFormatish::VERSION = '0.001';
+  $Rubric::Entry::Formatter::KwikiFormatish::VERSION = '0.552';
 }
 # ABSTRACT: format entries with AlmostKwikiText
 
@@ -34,7 +34,7 @@ Rubric::Entry::Formatter::KwikiFormatish - format entries with AlmostKwikiText
 
 =head1 VERSION
 
-version 0.001
+version 0.552
 
 =head1 DESCRIPTION
 
